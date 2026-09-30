@@ -33,19 +33,12 @@ p {
     font-size: 18px;
 }
 
-img {
-    border: 3px solid darkblue;
-    border-radius: 10px;
-}
 
 a {
     color: darkblue;
     text-decoration: none;
 }
 
-a:hover {
-    color: red;
-}
 
 ul, ol {
     display: inline-block;
